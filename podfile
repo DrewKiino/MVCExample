@@ -1,0 +1,22 @@
+#Podfile
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+link_with 'MVCExample', 'MVCExampleTests'
+
+use_frameworks!
+
+########################################
+
+pod 'Signals'
+pod 'SwiftyTimer'
+
+########################################
+# unit testing
+
+target 'MVCExampleTests' do
+
+#####################################
+
+end

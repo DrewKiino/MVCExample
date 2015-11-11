@@ -1,0 +1,13 @@
+PODS:
+  - Signals (2.1.0)
+  - SwiftyTimer (1.2.0)
+
+DEPENDENCIES:
+  - Signals
+  - SwiftyTimer
+
+SPEC CHECKSUMS:
+  Signals: a6114179339fa648120f64bb3acd0472965d45d9
+  SwiftyTimer: 5453593e0aaacfb1611fb6986d257281140913bb
+
+COCOAPODS: 0.39.0

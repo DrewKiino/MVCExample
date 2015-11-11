@@ -1,0 +1,6 @@
+framework module Pods_MVCExampleTests {
+  umbrella header "Pods-MVCExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
